@@ -110,13 +110,7 @@ MAE, RMSE and MAPE on the same test period. MAPE is reported with a caveat: the 
 
 - The selected model is refitted on train + test and forecasts the 90 days after the test period (from 2017-04-25). The forecast continues the seasonal pattern into the pre-monsoon and monsoon months, which were **not** in the test window, so it should be treated with extra caution. See `figures/17_future_forecast.png` after running the notebook.
 
-## Figures
 
-After running the notebook, the plots are saved to `figures/`. Suggested ones for display:
-
-![Model grid](figures/14_model_grid.png)
-![Top models](figures/15_top_models.png)
-![Future forecast](figures/17_future_forecast.png)
 
 ## Limitations
 
