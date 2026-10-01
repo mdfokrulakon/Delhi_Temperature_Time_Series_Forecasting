@@ -125,7 +125,7 @@ MAE, RMSE and MAPE on the same test period. MAPE is reported with a caveat: the 
 All plots are produced by the notebook and saved in the `figures/` folder.
 
 ### All 11 models vs the actual test values
-![Model grid](figures/14_model_grid.png)
+![Model grid](14_model_grid.png)
 
 ### The three lowest-RMSE models
 ![Top models](figures/15_top_models.png)
